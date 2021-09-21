@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dell/Desktop/my_char_display/char_display/char/char.src/BRAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BRAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dell/Desktop/my_char_display/char_display/char/char.src/char_display.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module char_display
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dell/Desktop/my_char_display/char_display/char/char.src/tb_char_display.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module char_display_vlg_tst

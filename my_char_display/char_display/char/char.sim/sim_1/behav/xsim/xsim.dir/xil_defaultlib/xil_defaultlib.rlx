@@ -1,0 +1,8 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/Dell/Desktop/my_char_display/char_display/char/char.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/Dell/Desktop/my_char_display/char_display/char/char.src/BRAM.v,1632224100,verilog,,C:/Users/Dell/Desktop/my_char_display/char_display/char/char.src/char_display.v,,BRAM,,,,,,,,
+C:/Users/Dell/Desktop/my_char_display/char_display/char/char.src/char_display.v,1632221878,verilog,,C:/Users/Dell/Desktop/my_char_display/char_display/char/char.src/tb_char_display.v,,char_display,,,,,,,,
+C:/Users/Dell/Desktop/my_char_display/char_display/char/char.src/tb_char_display.v,1632221875,verilog,,,,char_display_vlg_tst,,,,,,,,

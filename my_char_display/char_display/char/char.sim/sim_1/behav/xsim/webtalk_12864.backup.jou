@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Sep 21 19:26:18 2021
+# Process ID: 12864
+# Current directory: C:/Users/Dell/Desktop/my_char_display/char_display/char/char.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Dell/Desktop/my_char_display/char_display/char/char.sim/sim_1/behav/xsim/xsim.dir/char_display_vlg_tst_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Dell/Desktop/my_char_display/char_display/char/char.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/Dell/Desktop/my_char_display/char_display/char/char.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Dell/Desktop/my_char_display/char_display/char/char.sim/sim_1/behav/xsim/xsim.dir/char_display_vlg_tst_behav/webtalk/xsim_webtalk.tcl -notrace

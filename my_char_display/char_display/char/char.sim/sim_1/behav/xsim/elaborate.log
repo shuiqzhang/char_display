@@ -1,0 +1,18 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: E:/Vivado/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto 94a96986151244c8bbbac1294ca4076e --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot char_display_vlg_tst_behav xil_defaultlib.char_display_vlg_tst xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 8 for port waddr [C:/Users/Dell/Desktop/my_char_display/char_display/char/char.src/char_display.v:21]
+WARNING: [VRFC 10-278] actual bit length 8 differs from formal bit length 16 for port data_in [C:/Users/Dell/Desktop/my_char_display/char_display/char/char.src/char_display.v:23]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/Dell/Desktop/my_char_display/char_display/char/char.src/char_display.v" Line 1. Module char_display doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Dell/Desktop/my_char_display/char_display/char/char.src/BRAM.v" Line 4. Module BRAM(MEMWIDTH=8,DATAWIDTH=16) doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.BRAM(MEMWIDTH=8,DATAWIDTH=16)
+Compiling module xil_defaultlib.char_display
+Compiling module xil_defaultlib.char_display_vlg_tst
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot char_display_vlg_tst_behav
